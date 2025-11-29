@@ -1,3 +1,2 @@
-This is a sample README.md file. Please edit according to the instructions.
-
-Thanks :D
+Andrew Thai 30054579 Ashley Whitaker 30142472 Katie Lisowski 30114627 Mark Joshua Ines 30263906
+In this lab we first implemented a non-linear least squares estimator and a gradient descent optimizer to recover a GPS receiver’s 3D position and clock bias from noisy pseudorange measurements, then compared their convergence behavior and the impact of learning rate. Next, we built a logistic regression model to classify student depression using a real Kaggle dataset, explored data preprocessing and encoding, evaluated performance on different feature sets and dataset sizes, visualized confusion matrices and classification metrics, and compared logistic regression with Naive Bayes and KNN. Finally, we trained and evaluated both a fully connected MLP and a CNN on the MNIST handwritten digit dataset, analyzed their accuracy and learning curves, and showed why CNNs outperform MLPs on image tasks by better capturing spatial patterns.
